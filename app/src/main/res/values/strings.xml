@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">prueba</string>
+
+    <!-- Dashboard Screen  -->
+    <string name="yourBalance_subtitle">Tu balance</string>
+    <string name="purchaseDebt_subtitle">Compra de cartera</string>
+
+    <!-- Compra de Cartera Screen  -->
+    <string name="topTitle_purchaseDebt">Compra de cartera</string>
+    <string name="topSubtitle_purchaseDebt">Ingresa el monto de la deuda a comprar</string>
+    <string name="labelFirstInput">Monto a comprar</string>
+    <string name="labelSecondInput">Número de tarjeta</string>
+    <string name="firstErrorCardNumber">El número de tarjeta debe tener mínimo 15 dígitos</string>
+    <string name="secondErrorCardNumber">El número de tarjeta no es válido</string>
+    <string name="finalErrorCardNumber">La tarjeta no pertenece a Colombia</string>
+    <string name="buttonTextPurchaseDebt">REALIZAR COMPRA</string>
+
+    <!-- Success Pruchase Screen  -->
+    <string name="messageSuccessTitle">Su compra fue exitosa!</string>
+    <string name="messageSuccessSubtitle">El pago se efecturá en los próximos 5 días</string>
+
+    <!-- Error Pruchase Screen  -->
+    <string name="messageErrorTitle">Hubo un error en la compra de cartera</string>
+    <string name="messageErrorSubtitle">Inténtelo de nuevo</string>
+</resources>
